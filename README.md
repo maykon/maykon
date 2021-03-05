@@ -9,3 +9,9 @@ Full Cycle Developer @DB1Group.
 Entusiasta com novas tecnologias
 
 Apaixonado por programação, jogos e eletrônica.
+
+## My stats
+
+[![Maykon Luís Capellari's github stats](https://github-readme-stats.vercel.app/api?username=maykon&show_icons=true&theme=dark)](https://github.com/maykon)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykon&show_icons=true&theme=dark)
